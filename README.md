@@ -2,7 +2,7 @@
 
 Este proyecto modela la **cantidad de lluvia diaria (mm de precipitación)** en la ciudad de Chihuahua utilizando distribuciones de probabilidad.
 
-📓 Notebook: [Act-4.1.ipynb](./Act-4.1.ipynb)
+Notebook: [Act-4.1.ipynb](./Act-4.1.ipynb)
 
 ---
 
